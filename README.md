@@ -55,7 +55,7 @@
 
 ---
 
-Check out my [dot-files](https://github.com/GiorgioBertolotti/dot-files) to see how I work!  
+Check out my [dotfiles](https://github.com/GiorgioBertolotti/dotfiles) to see how I work!  
 If you have any suggestion feel free to contact me 🙏🏻  
 
 Also check out my boys [Fabio](https://github.com/fabiosangregorio) and [Davide](https://github.com/turotakun98)! 🔥
