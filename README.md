@@ -45,8 +45,10 @@
 
 ## 💬 Contact me!
 
-<a href="https://www.instagram.com/giorgiozem/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/bertolottigiorgio/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[<img align="left" alt="Twitter @GiorgioZem" width="22px" src="./twitter.svg" />][twitter]
+[<img align="left" alt="Linkedin @bertolottigiorgio" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="Stack Overflow @giorgio-bertolotti" width="22px" src="./stackoverflow.svg" />][stackoverflow]
+[<img alt="Instagram @giorgiozem" width="22px" src="./instagram.svg" />][instagram]
 
 ---
 
@@ -54,3 +56,8 @@ Check out my [dotfiles](https://github.com/GiorgioBertolotti/dotfiles) to see ho
 If you have any suggestion feel free to contact me 🙏🏻  
 
 Also check out my broski [Fabio](https://github.com/fabiosangregorio)! 🔥
+
+[twitter]: https://twitter.com/GiorgioZem
+[linkedin]: https://www.linkedin.com/in/bertolottigiorgio/
+[stackoverflow]: https://stackoverflow.com/users/7507788/giorgio-bertolotti
+[instagram]: https://www.instagram.com/giorgiozem/
