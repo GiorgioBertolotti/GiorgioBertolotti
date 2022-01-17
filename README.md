@@ -1,5 +1,10 @@
 # Hello, my name is Giorgio! 😁🇮🇹
 
+[<img align="left" alt="Twitter @GiorgioZem" width="22px" src="./twitter.svg" />][twitter]
+[<img align="left" alt="Linkedin @bertolottigiorgio" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="Stack Overflow @giorgio-bertolotti" width="22px" src="./stackoverflow.svg" />][stackoverflow]
+[<img alt="Instagram @giorgiozem" width="22px" src="./instagram.svg" />][instagram]
+
 > I'm a Mobile Developer [@FattureInCloud](https://www.fattureincloud.it/)  
 > You can check out my portfolio [@bertolotti.dev](https://bertolotti.dev/)
 
@@ -42,13 +47,6 @@
     </tr>
   </tbody>
 </table>
-
-## 💬 Contact me!
-
-[<img align="left" alt="Twitter @GiorgioZem" width="22px" src="./twitter.svg" />][twitter]
-[<img align="left" alt="Linkedin @bertolottigiorgio" width="22px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="Stack Overflow @giorgio-bertolotti" width="22px" src="./stackoverflow.svg" />][stackoverflow]
-[<img alt="Instagram @giorgiozem" width="22px" src="./instagram.svg" />][instagram]
 
 ---
 
