@@ -1,14 +1,13 @@
 # Hello, my name is Giorgio! 😁🇮🇹
 
 > I'm a Mobile Developer [@FattureInCloud](https://www.fattureincloud.it/)  
-> I'm studying Computer Science [@unimib](https://www.unimib.it/ugov/degree/5556)  
 > You can check out my portfolio [@bertolotti.dev](https://bertolotti.dev/)
 
 ## ❤️ I LOVE
 
 - Basketball 🏀
+- IoT & Automation 🤖
 - Mobile development 📱
-- Automation 🤖
 - [Adding emojis in commits](https://gitmoji.carloscuesta.me/) 👀
 
 ## 🤓 My projects
@@ -16,10 +15,10 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
+      <td><b>Projects</b></td>
+      <td><b>Stars</b></td>
+      <td><b>Forks</b></td>
+      <td><b>Issues</b></td>
     </tr>
   </thead>
   <tbody>
@@ -36,17 +35,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/GiorgioBertolotti/ProTime?style=flat-square&labelColor=343b41"/></td>
     </tr>
 		<tr>
-			<td><a href="https://github.com/GiorgioBertolotti/FerreroQualityControl"><b>Image Analysis Assignment</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/GiorgioBertolotti/FerreroQualityControl?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/GiorgioBertolotti/FerreroQualityControl?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/GiorgioBertolotti/FerreroQualityControl?style=flat-square&labelColor=343b41"/></td>
+			<td><a href="https://github.com/domenicogaeni/hackatomici"><b>SafeTravel (Hackathon project)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/domenicogaeni/hackatomici?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/domenicogaeni/hackatomici?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/domenicogaeni/hackatomici?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
-
-## 📈 Numbers
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=GiorgioBertolotti&hide=contribs&theme=nord" />
 
 ## 💬 Contact me!
 
@@ -58,4 +53,4 @@
 Check out my [dotfiles](https://github.com/GiorgioBertolotti/dotfiles) to see how I work!  
 If you have any suggestion feel free to contact me 🙏🏻  
 
-Also check out my boys [Fabio](https://github.com/fabiosangregorio) and [Davide](https://github.com/turotakun98)! 🔥
+Also check out my broski [Fabio](https://github.com/fabiosangregorio)! 🔥
