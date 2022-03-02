@@ -5,8 +5,8 @@
 [<img align="left" alt="Stack Overflow @giorgio-bertolotti" width="22px" src="./stackoverflow.svg" />][stackoverflow]
 [<img alt="Instagram @giorgiozem" width="22px" src="./instagram.svg" />][instagram]
 
-> I'm a Mobile Developer [@FattureInCloud](https://www.fattureincloud.it/)  
-> You can check out my portfolio [@bertolotti.dev](https://bertolotti.dev/)
+> I'm building [GreenMod][greenmod] with [Domenico][domenico]  
+> You can check out my portfolio at [bertolotti.dev][portfolio]
 
 ## ❤️ I LOVE
 
@@ -55,6 +55,9 @@ If you have any suggestion feel free to contact me 🙏🏻
 
 Also check out my broski [Fabio](https://github.com/fabiosangregorio)! 🔥
 
+[domenico]: https://github.com/domenicogaeni/
+[greenmod]: https://greenmod.it/
+[portfolio]: https://bertolotti.dev/
 [twitter]: https://twitter.com/GiorgioZem
 [linkedin]: https://www.linkedin.com/in/bertolottigiorgio/
 [stackoverflow]: https://stackoverflow.com/users/7507788/giorgio-bertolotti
