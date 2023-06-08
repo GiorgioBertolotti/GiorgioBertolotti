@@ -1,7 +1,7 @@
 # Hello, my name is Giorgio! 😁🇮🇹
 
 [<img align="left" alt="Twitter @GiorgioZem" width="22px" src="./twitter.svg" />][twitter]
-[<img align="left" alt="Linkedin @bertolottigiorgio" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="Linkedin @giorgiobertolotti" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="Stack Overflow @giorgio-bertolotti" width="22px" src="./stackoverflow.svg" />][stackoverflow]
 [<img alt="Instagram @giorgiozem" width="22px" src="./instagram.svg" />][instagram]
 
@@ -59,6 +59,6 @@ Also check out my broski [Fabio](https://github.com/fabiosangregorio)! 🔥
 [greenmod]: https://greenmod.it/
 [portfolio]: https://bertolotti.dev/
 [twitter]: https://twitter.com/GiorgioZem
-[linkedin]: https://www.linkedin.com/in/bertolottigiorgio/
+[linkedin]: https://www.linkedin.com/in/giorgiobertolotti/
 [stackoverflow]: https://stackoverflow.com/users/7507788/giorgio-bertolotti
 [instagram]: https://www.instagram.com/giorgiozem/
