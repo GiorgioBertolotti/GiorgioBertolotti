@@ -1,8 +1,6 @@
-# Hello, my name is Giorgio! 😁🇮🇹
+# Hello, my name is Giorgio! 👋🇮🇹
 
-[<img align="left" alt="Twitter @GiorgioZem" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="Linkedin @giorgiobertolotti" width="22px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="Stack Overflow @giorgio-bertolotti" width="22px" src="./stackoverflow.svg" />][stackoverflow]
 [<img alt="Instagram @giorgiozem" width="22px" src="./instagram.svg" />][instagram]
 
 > I'm building [GreenMod][greenmod] with [Domenico][domenico]  
@@ -10,8 +8,8 @@
 
 ## ❤️ I LOVE
 
-- Basketball 🏀
 - IoT & Automation 🤖
+- Table tennis 🏓
 - Mobile development 📱
 - [Adding emojis in commits](https://gitmoji.carloscuesta.me/) 👀
 
@@ -27,6 +25,12 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+	    <td><a href="https://alfredohome.com/"><b>Alfredo</b></a></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
     <tr>
 	    <td><a href="https://github.com/GiorgioBertolotti/PWSWatcher"><b>PWS Watcher</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/GiorgioBertolotti/PWSWatcher?style=flat-square&labelColor=343b41"/></td>
