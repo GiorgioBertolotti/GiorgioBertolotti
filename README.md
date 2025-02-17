@@ -3,51 +3,44 @@
 [<img align="left" alt="Linkedin @giorgiobertolotti" width="22px" src="./linkedin.svg" />][linkedin]
 [<img alt="Instagram @giorgiozem" width="22px" src="./instagram.svg" />][instagram]
 
-> I'm building <a href="https://alfredohome.com/" target="_blank">Alfredo</a> @<a href="https://greenmod.it/" target="_blank">GreenMod</a> with <a href="https://github.com/domenicogaeni" target="_blank">Domenico</a>  
-> You can check out my portfolio at <a href="https://bertolotti.dev/" target="_blank">bertolotti.dev</a>
+I'm building <a href="https://alfredohome.com/" target="_blank">Alfredo</a> and <a href="https://mangatime.net/" target="_blank">MangaTime</a> with <a href="https://github.com/domenicogaeni" target="_blank">Domenico</a> (AKA the number 1)  
+You can check out my portfolio at <a href="https://bertolotti.dev/" target="_blank">bertolotti.dev</a>
 
-## ❤️ I LOVE
+## ❤️ I Love
 
-- IoT & Automation 🤖
 - Table tennis 🏓
 - Mobile development 📱
-- [Adding emojis in commits](https://gitmoji.carloscuesta.me/) 👀
+- Automation 🤖
 
-## 🤓 My projects
+## 🤓 Projects
 
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>Projects</b></td>
-      <td><b>Stars</b></td>
-      <td><b>Forks</b></td>
-      <td><b>Issues</b></td>
+      <td><b>Name</b></td>
+      <td><b>Link</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-	    <td><a href="https://alfredohome.com/" target="_blank"><b>Alfredo</b></a></td>
-      <td></td>
-      <td></td>
-      <td></td>
+	<td><b>MangaTime</b></td>
+      <td><a href="https://mangatime.net/" target="_blank">Learn More</a></td>
     </tr>
     <tr>
-	    <td><a href="https://github.com/GiorgioBertolotti/PWSWatcher" target="_blank"><b>PWS Watcher</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/GiorgioBertolotti/PWSWatcher?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/GiorgioBertolotti/PWSWatcher?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/GiorgioBertolotti/PWSWatcher?style=flat-square&labelColor=343b41"/></td>
+	<td><b>Nursing Shifts</b></td>
+      <td><a href="https://www.linkedin.com/posts/giorgiobertolotti_ciao-ragazzi-vi-racconto-una-storia-di-amore-activity-7234817233368023040-m-zJ" target="_blank">Learn More</a></td>
     </tr>
-	  <tr>
-		  <td><a href="https://github.com/GiorgioBertolotti/ProTime" target="_blank"><b>ProTime</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/GiorgioBertolotti/ProTime?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/GiorgioBertolotti/ProTime?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/GiorgioBertolotti/ProTime?style=flat-square&labelColor=343b41"/></td>
+    <tr>
+	<td><b>Alfredo</b></td>
+      <td><a href="https://alfredohome.com/" target="_blank">Learn More</a></td>
     </tr>
-		<tr>
-			<td><a href="https://github.com/domenicogaeni/hackatomici" target="_blank"><b>SafeTravel (Hackathon project)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/domenicogaeni/hackatomici?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/domenicogaeni/hackatomici?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/domenicogaeni/hackatomici?style=flat-square&labelColor=343b41"/></td>
+    <tr>
+	<td><b>SafeTravel</b></td>
+      <td><a href="https://github.com/domenicogaeni/hackatomici" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+	<td><b>Beelder</b></td>
+      <td><a href="https://github.com/ssh-impatici/download-hackathon-2020" target="_blank">GitHub</a></td>
     </tr>
   </tbody>
 </table>
@@ -57,7 +50,7 @@
 Check out my [dotfiles](https://github.com/GiorgioBertolotti/dotfiles) to see how I work!  
 If you have any suggestion feel free to contact me 🙏🏻  
 
-Also check out my broski [Fabio](https://github.com/fabiosangregorio)! 🔥
+Also check out my broski [Fabio](https://github.com/fabiosangregorio) and [Domenico](https://github.com/domenicogaeni)! 🔥
 
 [linkedin]: https://www.linkedin.com/in/giorgiobertolotti/
 [instagram]: https://www.instagram.com/giorgiozem/
